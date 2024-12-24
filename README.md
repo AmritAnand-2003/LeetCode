@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmritAnand-2003/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmritAnand-2003/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Eulerian Circuit
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmritAnand-2003/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
+## Tree
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmritAnand-2003/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
