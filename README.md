@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmritAnand-2003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Depth-First Search
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmritAnand-2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmritAnand-2003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
