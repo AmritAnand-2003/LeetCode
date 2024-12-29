@@ -1,32 +1,32 @@
 int mod = 1e9 + 7;
-
 class Solution {
 public:
-vector<vector<int>> dp;
-    int solve(vector<string>& words, string& target, int i, int j){
-        if(i == target.size()){
-            return 1;
-        }
-        if(j == words[0].size()){
-            return 0;
-        }
-        if(target.size() - i > words[0].size() - j){
-            return 0;
-        }
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
-        int ans = 0;
-        for(int ind = 0;ind < words.size();ind++){
-            if(words[ind][j] == target[i]){
-                ans = (ans + solve(words, target, i + 1, j + 1)) % mod;
+    int numWays(vector<string>& words, string target) {
+        vector<vector<int>> freq(words[0].size(), vector<int>(26));
+        for(auto wrd : words){
+            for(int i = 0;i < words[0].size();i++){
+                freq[i][wrd[i] - 'a']++;
             }
         }
-        ans = (ans + solve(words, target, i, j + 1)) % mod ;
-        return dp[i][j] = ans;
-    }
-    int numWays(vector<string>& words, string target) {
-        dp.resize(target.size(), vector<int>(words[0].size(), -1));
-        return solve(words, target, 0, 0);
+        vector<int> dp(words[0].size() + 1);
+        vector<int> prev(words[0].size() + 1);
+        for(int i = target.size();i >= 0;i--){
+            for(int j = words[0].size(); j>= 0;j--){
+                if(i == target.size()){
+                    dp[j] = 1;
+                }
+                else if(j != words[0].size()){
+                    long f = freq[j][target[i] - 'a'];
+                    long cur = (f * prev[j + 1]) % mod;
+                    long skip = dp[j + 1];
+                    dp[j] = (cur + skip) % mod;
+                }
+                else{
+                    dp[j] = 0;
+                }
+            }
+            prev = dp;
+        }
+        return dp[0];
     }
 };
