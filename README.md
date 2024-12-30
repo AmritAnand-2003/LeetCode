@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/AmritAnand-2003/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
