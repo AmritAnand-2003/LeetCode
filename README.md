@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmritAnand-2003/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmritAnand-2003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmritAnand-2003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
@@ -162,4 +164,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/AmritAnand-2003/LeetCode/tree/master/0177-nth-highest-salary) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
