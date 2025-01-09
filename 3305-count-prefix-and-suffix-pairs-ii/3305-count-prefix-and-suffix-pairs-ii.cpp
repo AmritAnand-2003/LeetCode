@@ -21,13 +21,6 @@ class Trie{
             if(cur->arr.find(cur_hash) == cur->arr.end()){
                 cur->arr[cur_hash] = new TrieNode();
             }
-            // if(cur->arr[x - 'a'] == NULL){
-            //     cur->arr[x - 'a'] = new TrieNode;
-            // }
-            // cur = cur->arr[x - 'a'];
-            // if(cur->arr[y - 'a'] == NULL){
-            //     cur->arr[y - 'a'] = new TrieNode;
-            // }
             cur = cur->arr[cur_hash];
             cur->isPreSuf++;
         }
@@ -41,14 +34,6 @@ class Trie{
                 return 0;
             }
             cur = cur->arr[cur_hash];
-            // if(cur->arr[x - 'a'] == NULL){
-            //     return 0;
-            // }
-            // cur = cur->arr[x - 'a'];
-            // if(cur->arr[y - 'a'] == NULL){
-            //     return 0;
-            // }
-            // cur = cur->arr[y - 'a'];
         }
         return cur->isPreSuf;
     }
