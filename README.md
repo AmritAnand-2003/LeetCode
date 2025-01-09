@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmritAnand-2003/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmritAnand-2003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/AmritAnand-2003/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmritAnand-2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmritAnand-2003/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmritAnand-2003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
