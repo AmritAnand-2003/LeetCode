@@ -1,17 +1,18 @@
 class Solution {
 public:
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
-        unordered_map<char, int> univ;
+        unordered_map<char, int> univ, temp;
         for(auto s : words2){
             unordered_map<char, int> temp;
             for(auto c : s){
                 temp[c]++;
                 univ[c] = max(univ[c], temp[c]);
             }
+            temp.clear();
         }
         vector<string> sol;
         for(auto s : words1){
-            unordered_map<char, int> temp = univ;
+            temp = univ;
             for(int i = 0;i < s.size();i++){
                 if(temp.find(s[i]) != temp.end()){
                     temp[s[i]]--;
