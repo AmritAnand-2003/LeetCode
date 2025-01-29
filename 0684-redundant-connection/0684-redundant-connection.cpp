@@ -6,7 +6,7 @@ class DisjointSet{
         sz.resize(n, 1);
     }
 
-    int findParent(int s){
+    int findParent(int& s){
         int par = parent[s];
         if(par == -1){
             return s;
@@ -14,7 +14,7 @@ class DisjointSet{
         return parent[s] = findParent(par);
     }
 
-    void unionBySize(int u, int v){
+    void unionBySize(int& u, int& v){
         int par_u = findParent(u), par_v = findParent(v);
         int sz_u = sz[par_u], sz_v = sz[par_v];
         if(sz_u > sz_v){
@@ -32,14 +32,13 @@ class Solution {
 public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         DisjointSet ds(1001);
-        vector<int> ans;
-        for(auto e : edges){
+        for(auto& e : edges){
             int u1 = ds.findParent(e[0]), u2 = ds.findParent(e[1]);
             if(u1 == u2){
                 return e;
             }
             ds.unionBySize(e[0], e[1]);
         }
-        return ans;
+        return {};
     }
 };
