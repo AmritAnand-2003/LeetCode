@@ -1,9 +1,8 @@
 class Solution {
 public:
-    string clearDigits(string s) {
-        int n = s.size();
+    string clearDigits(string& s) {
         int pos = 0;
-        for(int i = 0;i < n;i++){
+        for(int i = 0;i < s.size();i++){
             if(s[i] >= '0' && s[i] <= '9'){
                 pos--;
             }
