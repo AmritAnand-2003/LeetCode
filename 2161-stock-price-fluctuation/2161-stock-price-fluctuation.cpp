@@ -1,7 +1,8 @@
 class StockPrice {
 private:
-    map<int, int> price_ts;
+    unordered_map<int, int> price_ts;
     multiset<int> st;
+    int max_time = 0;
 public:
     StockPrice() {
         
@@ -10,29 +11,23 @@ public:
     void update(int timestamp, int price) {
         if(price_ts.find(timestamp) != price_ts.end()){
             auto it = st.find(price_ts[timestamp]);
-            if(it != st.end()){
-                st.erase(it);
-            }
+            st.erase(it);
         }
         price_ts[timestamp] = price;
         st.insert(price);
+        max_time = max(max_time, timestamp);
     }
     
     int current() {
-        auto it = price_ts.end();
-        it--;
-        return it->second;
+        return price_ts[max_time];
     }
     
     int maximum() {
-        auto it = st.end();
-        it--;
-        return *it;
+        return *st.rbegin();
     }
     
     int minimum() {
-        auto it = st.begin();
-        return *it;
+        return *st.begin();
     }
 };
 
