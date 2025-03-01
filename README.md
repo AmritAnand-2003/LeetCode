@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AmritAnand-2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/AmritAnand-2003/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/AmritAnand-2003/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/AmritAnand-2003/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/AmritAnand-2003/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AmritAnand-2003/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AmritAnand-2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/AmritAnand-2003/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/AmritAnand-2003/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/AmritAnand-2003/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmritAnand-2003/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -353,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/AmritAnand-2003/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/AmritAnand-2003/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Design
@@ -377,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
