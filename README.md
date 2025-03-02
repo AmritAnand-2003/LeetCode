@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1057-numbers-with-repeated-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Sorting
 |  |
