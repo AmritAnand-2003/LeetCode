@@ -11,13 +11,9 @@ public:
         string ans = "";
         k = k - 1;
         while(true){
-            int pos = k/fact;
-            auto it = next(numbers.begin(), pos);
-            int cur_num = *it;
-            ans += to_string(cur_num);
-            // cout<<cur_num<<" "<<ans<<" "<<fact<<" "<<k<<" "<<k/fact<<endl;
+            auto it = next(numbers.begin(), k/fact);
+            ans += to_string(*it);
             numbers.erase(it);
-            // cout<<numbers.size()<<endl;
             if(ans.size() == n){
                 break;
             }
