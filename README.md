@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AmritAnand-2003/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3427-special-array-ii) |
+| [3483-alternating-groups-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmritAnand-2003/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2868-continuous-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3483-alternating-groups-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Simulation
 |  |
 | ------- |
