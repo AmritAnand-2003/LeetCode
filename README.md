@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [2161-stock-price-fluctuation](https://github.com/AmritAnand-2003/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmritAnand-2003/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Data Stream
 |  |
@@ -403,13 +407,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
