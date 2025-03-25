@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/AmritAnand-2003/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3430-count-days-without-meetings](https://github.com/AmritAnand-2003/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Brainteaser
 |  |
 | ------- |
