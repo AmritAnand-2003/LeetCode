@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmritAnand-2003/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3427-special-array-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3427-special-array-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2161-stock-price-fluctuation](https://github.com/AmritAnand-2003/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmritAnand-2003/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Data Stream
 |  |
@@ -436,11 +440,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/AmritAnand-2003/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Memoization
 |  |
 | ------- |
@@ -449,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
