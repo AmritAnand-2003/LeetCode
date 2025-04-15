@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmritAnand-2003/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmritAnand-2003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/3447-clear-digits) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAnand-2003/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AmritAnand-2003/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
