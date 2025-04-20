@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/AmritAnand-2003/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/AmritAnand-2003/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
+| [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmritAnand-2003/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/AmritAnand-2003/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1057-numbers-with-repeated-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmritAnand-2003/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmritAnand-2003/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmritAnand-2003/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
