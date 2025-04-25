@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/AmritAnand-2003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2868-continuous-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmritAnand-2003/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmritAnand-2003/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmritAnand-2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
