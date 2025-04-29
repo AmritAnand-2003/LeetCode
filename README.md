@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/AmritAnand-2003/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/AmritAnand-2003/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmritAnand-2003/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmritAnand-2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3427-special-array-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3430-count-days-without-meetings](https://github.com/AmritAnand-2003/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Brainteaser
 |  |
 | ------- |
