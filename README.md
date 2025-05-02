@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmritAnand-2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/0952-word-subsets) |
 | [1170-shortest-common-supersequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmritAnand-2003/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmritAnand-2003/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
