@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmritAnand-2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AmritAnand-2003/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
