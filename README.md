@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmritAnand-2003/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmritAnand-2003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/AmritAnand-2003/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/AmritAnand-2003/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AmritAnand-2003/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/AmritAnand-2003/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AmritAnand-2003/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
