@@ -14,8 +14,10 @@ public:
             if(inDegree[i] == 0){
                 q.push(i);
                 cnt[i][colors[i] - 'a'] = 1;
+                // cout<<i<<" ";
             }
         }
+        // cout<<endl;
         int ans = 0, seen = 0;
         while(q.size()){
             int cur = q.front();
