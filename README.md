@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmritAnand-2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AmritAnand-2003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmritAnand-2003/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Biconnected Component
 |  |
 | ------- |
