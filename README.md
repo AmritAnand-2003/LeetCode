@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmritAnand-2003/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AmritAnand-2003/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0087-scramble-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AmritAnand-2003/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0087-scramble-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
