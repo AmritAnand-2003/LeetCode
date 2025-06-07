@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/AmritAnand-2003/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmritAnand-2003/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/AmritAnand-2003/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmritAnand-2003/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmritAnand-2003/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Matrix
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmritAnand-2003/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmritAnand-2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmritAnand-2003/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
