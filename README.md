@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/AmritAnand-2003/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AmritAnand-2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/AmritAnand-2003/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/AmritAnand-2003/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/AmritAnand-2003/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
