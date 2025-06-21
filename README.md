@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0060-permutation-sequence) |
+| [0223-rectangle-area](https://github.com/AmritAnand-2003/LeetCode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/AmritAnand-2003/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -611,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/AmritAnand-2003/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AmritAnand-2003/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
