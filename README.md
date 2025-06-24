@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmritAnand-2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmritAnand-2003/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmritAnand-2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
