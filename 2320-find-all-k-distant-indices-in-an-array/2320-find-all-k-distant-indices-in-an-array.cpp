@@ -5,7 +5,6 @@ public:
         int last_ind = -1, n = nums.size();
         for(int i = 0;i < n;i++){
             if(nums[i] == key){
-                cout<<max(i - k, last_ind + 1)<<endl;
                 for(int j = max(i - k, last_ind + 1); j < min(i + k + 1, n);j++){
                     ans.push_back(j);
                 }
