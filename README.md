@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/AmritAnand-2003/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmritAnand-2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2161-stock-price-fluctuation](https://github.com/AmritAnand-2003/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/AmritAnand-2003/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AmritAnand-2003/LeetCode/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmritAnand-2003/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2161-stock-price-fluctuation](https://github.com/AmritAnand-2003/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmritAnand-2003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
