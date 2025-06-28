@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1170-shortest-common-supersequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1252-break-a-palindrome](https://github.com/AmritAnand-2003/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AmritAnand-2003/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1252-break-a-palindrome](https://github.com/AmritAnand-2003/LeetCode/tree/master/1252-break-a-palindrome) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
