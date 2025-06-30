@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
+| [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
 | [0880-rectangle-area-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0880-rectangle-area-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmritAnand-2003/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmritAnand-2003/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/AmritAnand-2003/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AmritAnand-2003/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/AmritAnand-2003/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmritAnand-2003/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AmritAnand-2003/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
