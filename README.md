@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmritAnand-2003/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmritAnand-2003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
