@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmritAnand-2003/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AmritAnand-2003/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmritAnand-2003/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AmritAnand-2003/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/AmritAnand-2003/LeetCode/tree/master/2478-longest-nice-subarray) |
