@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/AmritAnand-2003/LeetCode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/AmritAnand-2003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Tree
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Sorting
 |  |
