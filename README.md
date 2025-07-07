@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AmritAnand-2003/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmritAnand-2003/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/AmritAnand-2003/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/AmritAnand-2003/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmritAnand-2003/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/1057-numbers-with-repeated-digits) |
 | [1170-shortest-common-supersequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/AmritAnand-2003/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmritAnand-2003/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
