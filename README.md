@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0516-longest-palindromic-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmritAnand-2003/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
