@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmritAnand-2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AmritAnand-2003/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmritAnand-2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AmritAnand-2003/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2161-stock-price-fluctuation](https://github.com/AmritAnand-2003/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AmritAnand-2003/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AmritAnand-2003/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/AmritAnand-2003/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmritAnand-2003/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/AmritAnand-2003/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmritAnand-2003/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AmritAnand-2003/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AmritAnand-2003/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
