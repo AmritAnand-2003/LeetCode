@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/AmritAnand-2003/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AmritAnand-2003/LeetCode/tree/master/0135-candy) |
 | [0218-the-skyline-problem](https://github.com/AmritAnand-2003/LeetCode/tree/master/0218-the-skyline-problem) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AmritAnand-2003/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0087-scramble-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
