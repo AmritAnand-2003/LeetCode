@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0735-asteroid-collision](https://github.com/AmritAnand-2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
 | [0880-rectangle-area-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0880-rectangle-area-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AmritAnand-2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AmritAnand-2003/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/AmritAnand-2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmritAnand-2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AmritAnand-2003/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
