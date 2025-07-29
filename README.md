@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/AmritAnand-2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
 | [0880-rectangle-area-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmritAnand-2003/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/AmritAnand-2003/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmritAnand-2003/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0833-bus-routes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmritAnand-2003/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmritAnand-2003/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmritAnand-2003/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AmritAnand-2003/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmritAnand-2003/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -609,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
