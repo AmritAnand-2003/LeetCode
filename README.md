@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmritAnand-2003/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmritAnand-2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmritAnand-2003/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3391-maximum-difference-score-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmritAnand-2003/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
 | ------- |
