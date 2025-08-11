@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AmritAnand-2003/LeetCode/tree/master/0768-partition-labels) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmritAnand-2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AmritAnand-2003/LeetCode/tree/master/0135-candy) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AmritAnand-2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/AmritAnand-2003/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
