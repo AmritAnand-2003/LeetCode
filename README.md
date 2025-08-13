@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/AmritAnand-2003/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/AmritAnand-2003/LeetCode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/AmritAnand-2003/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/AmritAnand-2003/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0797-rabbits-in-forest](https://github.com/AmritAnand-2003/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/AmritAnand-2003/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/AmritAnand-2003/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AmritAnand-2003/LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
