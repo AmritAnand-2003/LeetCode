@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1252-break-a-palindrome](https://github.com/AmritAnand-2003/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmritAnand-2003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AmritAnand-2003/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/AmritAnand-2003/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmritAnand-2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmritAnand-2003/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
+| [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2161-stock-price-fluctuation](https://github.com/AmritAnand-2003/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/AmritAnand-2003/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmritAnand-2003/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AmritAnand-2003/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AmritAnand-2003/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/AmritAnand-2003/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmritAnand-2003/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmritAnand-2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AmritAnand-2003/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
