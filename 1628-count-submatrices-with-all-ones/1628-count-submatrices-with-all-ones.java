@@ -4,24 +4,24 @@ class Solution {
         int ans = 0;
         for(int i = 0;i < m; i++) {
             for(int j = 0; j < n; j++) {
-                if(mat[i][j] == 0){
-                    continue;
-                }
-                if(i != 0){
+                if(i != 0 && mat[i][j] != 0){
                     mat[i][j] += mat[i - 1][j];
                 }
-                int cur = mat[i][j];
-                for(int k = j; k >= 0; k--){
-                    if(mat[i][k] == 0){
-                        break;
-                    }
-                    cur = Math.min(cur, mat[i][k]);
-                    ans += cur;
-                    // System.out.print(ans + "," + cur + "," + k + " ");
-                }
-                // System.out.print(ans + "-" + mat[i][j] + " ");
             }
-            // System.out.println();
+            Stack<int[]> stack = new Stack<>();
+            stack.push(new int[] {-1, 0, -1});
+            for(int j = 0; j < n; j++){
+                int h = mat[i][j];
+                while(stack.peek()[2] >= h) {
+                    stack.pop();
+                }
+                int[] top = stack.peek();
+                int k = top[0];
+                int prev = top[1];
+                int cur = prev + (j - k) * h;
+                stack.push(new int[] {j, cur, h});
+                ans += cur;
+            }
         }
         return ans;
     }
