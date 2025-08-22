@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmritAnand-2003/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/AmritAnand-2003/LeetCode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/AmritAnand-2003/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/AmritAnand-2003/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/AmritAnand-2003/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmritAnand-2003/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AmritAnand-2003/LeetCode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/AmritAnand-2003/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Brainteaser
 |  |
 | ------- |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AmritAnand-2003/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/AmritAnand-2003/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Topological Sort
 |  |
 | ------- |
