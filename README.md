@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/AmritAnand-2003/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmritAnand-2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAnand-2003/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AmritAnand-2003/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AmritAnand-2003/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAnand-2003/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmritAnand-2003/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/AmritAnand-2003/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AmritAnand-2003/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/AmritAnand-2003/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmritAnand-2003/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AmritAnand-2003/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmritAnand-2003/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
