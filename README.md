@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmritAnand-2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/AmritAnand-2003/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/AmritAnand-2003/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/AmritAnand-2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/AmritAnand-2003/LeetCode/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/AmritAnand-2003/LeetCode/tree/master/0546-remove-boxes) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmritAnand-2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AmritAnand-2003/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/AmritAnand-2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1396-count-servers-that-communicate](https://github.com/AmritAnand-2003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmritAnand-2003/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AmritAnand-2003/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/AmritAnand-2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AmritAnand-2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/AmritAnand-2003/LeetCode/tree/master/1184-car-pooling) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmritAnand-2003/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
