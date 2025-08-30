@@ -1,27 +1,23 @@
 class Solution {
     public int strangePrinter(String s) {
         int n = s.length();
-        int[][] dp = new int[n][n];
-        for(int[] in : dp){
-            Arrays.fill(in, -1);
+        int[][] minTurns = new int[n][n];
+        for(int i = 0; i < n; i++) {
+            minTurns[i][i] = 1;
         }
-        return Util(0, n - 1, s, dp);
-    }
-
-    private int Util(int i, int j, String s, int[][] dp) {
-        if(i > j){
-            return 0;
-        }
-        if(dp[i][j] != -1) {
-            return dp[i][j];
-        }
-        int firstLetter = s.charAt(i);
-        int answer = 1 + Util(i + 1, j, s, dp);
-        for(int k = i + 1; k <= j; k++){
-            if(s.charAt(k) == s.charAt(i)){
-                answer = Math.min(answer, Util(i, k - 1, s, dp) + Util(k + 1, j, s, dp));
+        for(int length = 2; length <= n; length++) {
+            for(int start = 0; start + length - 1 < n; start++) {
+                int end = start + length - 1;
+                minTurns[start][end] = 1 + minTurns[start + 1][end];
+                for(int split = start + 1; split <= end; split++) {
+                    if(s.charAt(split) == s.charAt(start)) {
+                        int turns = minTurns[start][split - 1] + (split == end ? 0 : minTurns[split + 1][end]);
+                        minTurns[start][end] = Math.min(minTurns[start][end], turns);
+                    }
+                    
+                }
             }
         }
-        return dp[i][j] = answer;
+        return minTurns[0][n - 1];
     }
 }
