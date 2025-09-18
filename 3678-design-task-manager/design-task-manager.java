@@ -24,7 +24,7 @@ class TaskManager {
     }
     
     public void rmv(int taskId) {
-        taskPriority.put(taskId, -1);
+        taskPriority.remove(taskId);
     }
     
     public int execTop() {
@@ -32,7 +32,7 @@ class TaskManager {
             int[] t = pq.poll();
             int p = t[0], id = t[1];
             if(taskPriority.getOrDefault(id, -2) == p) {
-                taskPriority.put(id, -1);
+                taskPriority.remove(id);
                 return taskOwner.getOrDefault(id, -1);
             }
         }
